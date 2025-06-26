@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState, useEffect} from 'react'
 import ExpenseForm from './ExpenseForm.jsx'
-import {v4 as uid} from "uuid";
+
 import History from './History.jsx';
 import BalanceContainer from './BalanceContainer.jsx';
 
